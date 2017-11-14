@@ -1,0 +1,8 @@
+[package]
+name = "searchfox-rustc-analyser"
+version = "0.1.0"
+authors = ["Emilio Cobos Álvarez <emilio@crisal.io>"]
+
+[dependencies]
+rls-analysis = "0.8"
+clap = "2"
